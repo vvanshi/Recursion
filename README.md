@@ -14,5 +14,3 @@ A **handpicked collection of important recursion problems** in Java, ranging fro
 
 ---
 
-## 📂 Project Structure  
-
